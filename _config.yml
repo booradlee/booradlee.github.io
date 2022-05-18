@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daydreaming & Sleepwalking 
+title: A Place to Place Things
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   The game has changed, but the players remain the same
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Errmergerd_ 
 github_username:  booradlee 
 
 # Build settings
