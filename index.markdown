@@ -4,12 +4,14 @@
 
 layout: home
 ---
-
 <h2>
-	<a href="https://presearch.com/signup?rid=2450908">Presearch<a/>
+	<a href="https://presearch.com/signup?rid=2450908">
+		Presearch
+	</a>
+&nbsp;&nbsp;&nbsp;&nbsp;	
+	<a href="https://ftx.us/home/#a=1417757">
+		FTX
+	</a>
+</h2>
 
-
-	
-	<a href="https://ftx.us/home/#a=1417757">FTX<a/>
-<h2/>
 

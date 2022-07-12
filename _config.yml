@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The game has changed, but the players remain the same.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: booradlee_ 
 github_username: booradlee 
 
 # Build settings
